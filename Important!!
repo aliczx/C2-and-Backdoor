@@ -1,0 +1,24 @@
+# C2-and-Backdoor
+This tool is a C2 and a DETECTABLE backdoor FOR EDUCATIONAL USE! The Two Tools command will be free to use (Works on Debian, Ubuntu Kali, Linux, Arch, and others.
+
+
+
+# C2-and-Backdoor
+Está ferramente é um C2 e um backdoor DETECTAVEL PARA USO EDUCACIONAL! O comando das Duas Ferramentas será livre para uso (Funciona em debian, ubuntu kali, linux, arch, e entre outros.
+
+
+
+
+Instruções:
+          Copie cada ferramenta e crie um arquivo .txt no seu sistema. Seja ele como Linux, arch, Kali e entre outros.
+             Apos isso, abra as duas ferramentas e coloque seu no local "soc.connect(('192.169', 4444))".
+                Para ver seu IP, Basta digitar "ifconfig" ou "ipconfig" 
+                 USE ISSO APENAS A USO EDUCACIONAL
+
+Instructions:
+          Copy each tool and create a .txt file on your system. Be it Linux, arch, Kali and others.
+             After that, open both tools and place yours in the location "soc.connect(('192.169', 4444))".
+                To see your IP, just type "ifconfig" or "ipconfig".
+                 USE THIS FOR EDUCATIONAL USE ONLY.
+
+                 
