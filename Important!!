@@ -11,7 +11,7 @@ Está ferramente é um C2 e um backdoor DETECTAVEL PARA USO EDUCACIONAL! O coman
 
 • Instruções:
           Copie cada ferramenta e crie um arquivo .txt no seu sistema. Seja ele como Linux, arch, Kali e entre outros.
-             Apos isso, abra as duas ferramentas e coloque seu no local "soc.connect(('192.169', 4444))".
+             Após isso, abra as duas ferramentas e coloque seu no local "soc.connect(('192.169', 4444))".
                 Para ver seu IP, Basta digitar "ifconfig" ou "ipconfig" 
                  USE ISSO APENAS A USO EDUCACIONAL
 
