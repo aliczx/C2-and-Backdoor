@@ -9,13 +9,13 @@ Está ferramente é um C2 e um backdoor DETECTAVEL PARA USO EDUCACIONAL! O coman
 
 
 
-Instruções:
+• Instruções:
           Copie cada ferramenta e crie um arquivo .txt no seu sistema. Seja ele como Linux, arch, Kali e entre outros.
              Apos isso, abra as duas ferramentas e coloque seu no local "soc.connect(('192.169', 4444))".
                 Para ver seu IP, Basta digitar "ifconfig" ou "ipconfig" 
                  USE ISSO APENAS A USO EDUCACIONAL
 
-Instructions:
+• Instructions:
           Copy each tool and create a .txt file on your system. Be it Linux, arch, Kali and others.
              After that, open both tools and place yours in the location "soc.connect(('192.169', 4444))".
                 To see your IP, just type "ifconfig" or "ipconfig".
@@ -23,12 +23,23 @@ Instructions:
 
 
 
-Instalação:
+• Instalação (Kali, termux):
+          sudo apt update
           git clone https://github.com/aliczx/C2-and-Backdoor.git
           cd C2-and-Backdoor.git
           python c2.py 
           python backdoor.py
 
-Archlinux::
+        • Faça o mesmo processo em arch, debian, linux e outros
+
+
+• Installation (Kali, termux):
+          sudo apt update
+          git clone https://github.com/aliczx/C2-and-Backdoor.git
+          cd C2-and-Backdoor.git
+          python c2.py
+          python backdoor.py
+
+        • Do the same process in arch, debian, linux and others
 
                  
