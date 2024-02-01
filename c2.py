@@ -78,7 +78,7 @@ def t_commun():
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 sock.bind(('192.169.', 4444))
-print(colored('[-] Esperando Por Uma Conecxão[~]', 'red'))
+print(colored('[-] Esperando Por Uma Conecxão', 'red'))
 sock.listen(5)
 
 target, ip = sock.accept()
