@@ -43,6 +43,8 @@ def t_commun():
            break
         elif comm == 'clear':
             os.system('clear')
+        elif comm[:3} == 'ls ':
+            os.chdir(com[3:])
         elif comm[:3] == 'cd ':
             pass
         elif comm == 'upload':
