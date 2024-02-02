@@ -13,6 +13,19 @@ def data_recv():
         except ValueError:
             continue
 
+def ls(directory='.'):
+    try:
+        # Lista todos os arquivos no diretório especificado
+        files = os.listdir(directory)
+
+        # Exibe o nome de cada arquivo
+        for file in files:
+            print(file)
+
+    except FileNotFoundError:
+        print(f'Diretório {directory} não encontrado.')
+    except PermissionError:
+        print(f'Permissão negada para acessar o diretório {directory}.')
 
 def data_send(data):
     jsondata = json.dumps(data)
